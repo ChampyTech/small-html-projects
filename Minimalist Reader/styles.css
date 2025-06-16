@@ -1,0 +1,21 @@
+body {
+    font-family: 'Manrope', sans-serif;
+    margin: 50px 200px;
+    text-align: justify;
+}
+
+h4 {
+    color: #6f816a;
+    font-weight: normal;
+}
+
+span {
+    background-color: yellow;
+}
+
+#new {
+    color: white;
+    background-color: red;
+    padding: 3px 8px;
+    border-radius: 10px;
+}
