@@ -7,4 +7,4 @@ Here is the list of all the pages in the repository. Click on a project to view 
 - <a href="./Minimalist Reader/index.html" target="_blank">Minimalist Reader</a>
 - <a href="./Wikipedia Page/index.html" target="_blank">Wikipedia Page</a>
 
-© 2025 - Created by <a href="https://github.com/ChampyTech" target="_blank">ChampyTech</a></p>
+Made with ❤️ by <b><a href="https://github.com/ChampyTech" target="_blank">ChampyTech</a></b>
