@@ -4,7 +4,7 @@
 
 A curated collection of small HTML & CSS projects, perfect for practicing web design, experimenting with code, and boosting your frontend skills.
 
-Got an <b>idea</b>? Want to add something awesome? <a href="https://github.com/ChampyTech/small-html-projects/issues/new" target="_blank">Open an issue on GitHub!</a>
+Got an <b>idea</b>? Want to add something awesome? <a href="https://github.com/ChampyTech/small-html-projects" target="_blank">Open an issue or a pull request on GitHub!</a>
 
 Here is the list of all the pages in the repository. Click on a project to view it live on your browser without downloading anything. Try recreating them to practice your frontend skills!
 
