@@ -1,5 +1,10 @@
 # 👩‍💻 Small HTML & CSS Projects - Practice Your Frontend Skills
 
+<p>
+  <img alt="Contributions welcome" src="https://img.shields.io/badge/Contributions-welcome-green">
+  <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-orange">
+</p>
+
 <a href="https://champytech.github.io/small-html-projects/">🔗 Visit website</a>
 
 A curated collection of small HTML & CSS projects, perfect for practicing web design, experimenting with code, and boosting your frontend skills.
