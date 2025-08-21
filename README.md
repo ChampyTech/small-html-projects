@@ -18,4 +18,6 @@ Here is the list of all the pages in the repository. Click on a project to view 
 
 Open a pull request or an issue. Even small contributions are welcome!
 
-Made with ❤️ by <b><a href="https://github.com/ChampyTech" target="_blank">ChampyTech</a></b>
+## 🎫 License
+
+This project is licensed under the [MIT License](LICENSE.md).
