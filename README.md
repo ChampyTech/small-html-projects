@@ -11,6 +11,9 @@ A curated collection of small HTML & CSS projects, perfect for practicing web de
 
 Here is the list of all the pages in the repository. Click on a project to view it live on your browser without downloading anything. Try recreating them to practice your frontend skills!
 
+> [!TIP]
+> Use **Ctrl+F** (Windows/Linux/Chromebook) or **⌘+F** (Mac) to search through the collection and find exactly what you need.
+
 - <a href="./Minimalist Reader/index.html" target="_blank">Minimalist Reader</a>
 - <a href="./Wikipedia Page/index.html" target="_blank">Wikipedia Page</a>
 
